@@ -1,3 +1,6 @@
 Hello
 
 This is My first GIT file.
+
+
+This is New Line for Second commit
